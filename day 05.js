@@ -118,12 +118,10 @@ var isPalindrome = function (num){
     
     else
     {
-       return  "is not palidrome number"  ;
+      return  "is not palidrome number"  ;
     
     }
-    
-    
-  
+   
 };
 console.log(isPalindrome(number = [121]));
 console.log(isPalindrome(number = [123]));
